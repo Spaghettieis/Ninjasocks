@@ -342,4 +342,12 @@ class CfgVehicles
 			};
 		};
 	};
+	class seis_ninjasocks_bare: seis_ninjasocks
+	{
+		displayName="#STR_NINJASOCKS_BARE";
+		descriptionShort="#STR_NINJASOCKS_BARE_DESC";
+		soundAttType="bare";
+		soundImpactType="default";
+	};
+
 };
